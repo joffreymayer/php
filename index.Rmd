@@ -1,9 +1,8 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "PHP Wissen"
+author: "Joffrey Mayder"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
-
+# PHP Wissen
